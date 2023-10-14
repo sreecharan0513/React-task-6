@@ -1,0 +1,45 @@
+/* App container */
+.App {
+  font-family: 'Arial', sans-serif;
+}
+
+/* Header section */
+.header {
+  background-color: rebeccapurple; 
+  color: #fff; 
+}
+
+.name {
+  font-size: 3rem; /* Larger font size */
+}
+
+.job-title {
+  font-size: 1.5rem; /* Smaller font size */
+}
+
+/* Section title */
+.section-title {
+  color: #f7f7f7; 
+}
+
+/* About section */
+.about {
+  background-color: #f7f7f7; 
+}
+
+/* Contact section */
+.contact {
+  background-color: #ff00d9; 
+  color: #fff; 
+}
+
+/* Contact links */
+.contact a {
+  color:white; 
+  text-decoration: none;
+  margin-right: 15px;
+}
+
+.contact a:hover {
+  text-decoration: underline;
+}
